@@ -1,3 +1,3 @@
-# POSITIVE_HAM10000_split
+# HAM10000_6classes_split
  
 remove nv classes
